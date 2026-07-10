@@ -31,20 +31,17 @@ def remove_students():
 def display_students():
     for i in range(len(name)):
         print("Student Name:", name[i])
-
+menu = show_menu()
 while True:
-
-    menu = show_menu()
-
     d = int(input("Enter the decision"))
 
     if d == 1:
-        add = add_students()
+        add_students()
     elif d == 2:
-        search = search_students()
+        search_students()
     elif d == 3:
-        remove = remove_students()
+        remove_students()
     elif d == 4:
-        display = display_students()
+        display_students()
     else:
         print("Invalid")
