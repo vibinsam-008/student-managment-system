@@ -17,11 +17,14 @@ Salient Features
   1.Add student
     During admission enrollment the student name can be added through appending of lists. In this way the
     student database can be maintained well
+		
   2.Search student
     This feature is used to search a particular student in a list. For now, this will work only if the full initial is 
     mentioned
+		
   3.Remove student
     If the student transfers to another institution, the data of that particular student acts as a garbage. Hence by typing the name the entire credintals of the student will be removed from the database
+		
   4.Exit
     Used to exit from the system
 
