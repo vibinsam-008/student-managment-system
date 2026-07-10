@@ -30,8 +30,8 @@ Salient Features
   3.Remove student
     If the student transfers to another institution, the data of that particular student acts as a garbage. Hence by typing the name the entire credintals of the student will be removed from the database
 		
-  4.Exit
-    Used to exit from the system
+  4.Display Student
+  	This is used to show the number of students enrolled in total
 
   NOTE:
     The current version (v0.1b) stores only name and has no definite file or dictionary to have the datasaved.
