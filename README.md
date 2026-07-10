@@ -5,15 +5,20 @@
 Language used: Python
 Concepts used:
   1.Conditionals
+  
   2.List indexing
+  
   3.Loops
+  
   4.Functions
 
 Objective: 
+
   The objective of the function is to manage database of a student enrolled in a institution so that it will be 
   easy for the administration to check for informations in the future.
 
 Salient Features
+
   1.Add student
     During admission enrollment the student name can be added through appending of lists. In this way the
     student database can be maintained well
