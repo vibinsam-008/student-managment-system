@@ -38,4 +38,17 @@ Salient Features
 
   Future plans:
     Later in future, tech stacks like Javascript, MongoDB can be incorporated to make the entire system functionable and accessible to the institution
-  
+
+
+  UPDATE:
+
+	The version 0.2b of the student management system uses dictionary to structure the data.
+
+	for now, the code stores the student age and his/her present class
+
+FOR FUTURE UPDATE:
+
+	Classes will be used for more coherent and organized data.
+
+BY,
+VIBIN APPACHI
